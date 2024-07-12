@@ -1,0 +1,3 @@
+# ignoring python and version caches
+/versions/
+/__pycache__/
